@@ -1,0 +1,35 @@
+_repo: Le-livre-des-heures-heroiques-et-douloureuses-des-annees-1914-1915-1916-1917-1918_72605
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hellé, André
+    aliases:
+    - Helle, Andre
+    - Laclôtre, André
+    - Laclotre, Andre
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '35475'
+    url: http://www.gutenberg.org/2009/agents/35475
+    wikipedia: https://fr.wikipedia.org/wiki/Andr%C3%A9_Hell%C3%A9
+description: ''
+gutenberg_issued: '2024-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72605'
+language: fr
+pgterms:marc904: https://archive.org/details/lelivredesheures00helluoft/page/n15/mode/2up
+pgterms:marc905: 20220306144221hell
+pgterms:marc906: '1919'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aNancy-Paris-Strasbourg :$bBerger-Levrault, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le livre des heures héroïques et douloureuses des années 1914-1915-1916-1917-1918
+url: http://www.gutenberg.org/ebooks/72605
