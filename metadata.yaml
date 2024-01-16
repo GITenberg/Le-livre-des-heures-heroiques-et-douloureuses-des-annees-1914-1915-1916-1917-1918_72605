@@ -1,5 +1,8 @@
 _repo: Le-livre-des-heures-heroiques-et-douloureuses-des-annees-1914-1915-1916-1917-1918_72605
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72605-h/images/cover.jpg
 creator:
   author:
     agent_name: Hellé, André
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35475
     wikipedia: https://fr.wikipedia.org/wiki/Andr%C3%A9_Hell%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72605#Le-livre-des-heures-heroiques-et-douloureuses-des-annees-1914-1915-1916-1917-1918
 gutenberg_issued: '2024-01-03'
 gutenberg_type: Text
 identifiers:
